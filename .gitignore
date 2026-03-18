@@ -1,0 +1,10 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+*.zip
+response.json
+*.log
+__pycache__/
+*.pyc
+response.json
